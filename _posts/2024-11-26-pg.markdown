@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "美丽的草原，我的家"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2024-11-26 23:31:00
+author:     "ym"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - music
+    - life
+---
+
+<iframe src="https://rumble.com/embed/v4fx7t6/?pub=3ecnru" frameborder="0" height="360" width="640" class="rumble"></iframe>
